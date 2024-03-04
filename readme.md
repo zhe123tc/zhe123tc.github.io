@@ -21,7 +21,7 @@
 <tr>
 <td>
   
-### 🏢 Study Experience
+### 🏢 Education Experience
 
 <img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
@@ -34,7 +34,7 @@
   
   - 时间：2023-
   - 研究方向：AI
-
+### 🏢 Paper
 </td>
 </tr>
 
